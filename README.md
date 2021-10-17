@@ -1,1 +1,1 @@
-tf-vpc-vm
+tf-gcp-vpc-vm
